@@ -1,9 +1,9 @@
 # 🌊 Environmental Status of European Seas
 
 👉 **[View the interactive map](https://thanasisnikolaou.github.io/Environmental-Status-of-European-Seas/MSFD_interactive_map.html)**
-<p align="center">
-<img src="docs/map_preview.png" alt="Map Preview" width="600"/>
-</p>
+
+![Map Preview](docs/map_preview.png)
+
 ## 📊 About the Project
 
 This repository hosts interactive maps based on the research paper: **"What Do We Know About the Environmental Status of European Seas?"** published in *Conservation Letters* (2025) by **Nikolaou, A., Borja, A., and Katsanevakis, S.**.
