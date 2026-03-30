@@ -9,7 +9,7 @@
 This repository hosts interactive maps based on the research paper: **"What Do We Know About the Environmental Status of European Seas?"** published in *Conservation Letters* (2025) by **Nikolaou, A., Borja, A., and Katsanevakis, S.**.
 
 ## 📌 Overview
-This study introduces a novel, integrative approach to assess the environmental status of European seas by compiling available **Marine Strategy Framework Directive (MSFD)** data reported by EU Member States [4-6]. For the first time, MSFD data across all 11 descriptors have been integrated to produce a holistic regional assessment at the **ecoregion level**.
+This study introduces a novel, integrative approach to assess the environmental status of European seas by compiling available **Marine Strategy Framework Directive (MSFD)** data reported by EU Member States. For the first time, MSFD data across all 11 descriptors have been integrated to produce a holistic regional assessment at the **ecoregion level** (sensu Spalding et al. 2007, [doi:10.1641/B570707](https://doi.org/10.1641/B570707)).
 
 ## 🗺️ Interactive Maps
 The provided HTML file contains three interactive maps representing the indices developed in the paper:
@@ -23,6 +23,7 @@ The provided HTML file contains three interactive maps representing the indices 
 *   **Uncertainty Measure:** Each ecoregion includes a quantification of assessment reliability, expressed as the **percentage of relevant criteria/features assessed** in that specific area.
 
 ## 📂 Repository Content
+*   `2018_results.csv`: CSV file containing the outputs generated from the index calculations.
 *   `MSFD_interactive_map.html`: The main file containing the interactive visualisations for Pressure, State, and Impact indices.
 
 ## 📝 Citation
