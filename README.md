@@ -2,7 +2,7 @@
 
 👉 **[View the interactive map](https://thanasisnikolaou.github.io/Environmental-Status-of-European-Seas/MSFD_interactive_map.html)**
 
-![Map Preview](docs/map_preview.png)
+![Map Preview](docs/map3.png)
 
 ## 📊 About the Project
 
